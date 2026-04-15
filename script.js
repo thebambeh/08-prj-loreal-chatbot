@@ -3,7 +3,7 @@ const userInput = document.getElementById("userInput");
 const chatWindow = document.getElementById("chatWindow");
 const sendBtn = document.getElementById("sendBtn");
 
-const WORKER_URL = "https://loreal-chatbot-worker.pram-wardhana12.workers.dev/";
+const WORKER_URL = "https://loreal-chatbot.pram-wardhana12.workers.dev/";
 
 const messages = [
   {
